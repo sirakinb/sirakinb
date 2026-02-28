@@ -2,7 +2,7 @@
 
 📍 **Philadelphia ↔ Miami** | Automation & App Developer | Vibe Coder | Founder @ [Pentridge Media](https://pentridgemedia.com)
 
-I build operations systems for service businesses—property management, legal, financial services—and run an AI innovation studio that deploys systems, software, and community for modern businesses. When I'm not building B2C and B2B apps, I'm on [YouTube](https://youtube.com/@sirakinb) talking about AI, automation, and business systems.
+I build operations systems for service businesses—property management, legal, financial services—and run an AI innovation studio that deploys systems, software, and community for modern businesses. When I'm not building B2C and B2B apps, I'm on [YouTube](https://youtube.com/@sirakinb) talking about AI, business systems, and the future of work.
 
 ---
 
