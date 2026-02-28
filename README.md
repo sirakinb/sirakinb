@@ -41,6 +41,7 @@ I build operations systems for service businesses—property management, legal, 
 - 🌫️ **[Blur App](https://github.com/sirakinb/blur-app)** — Chrome extension to blur sensitive info in videos and Zoom calls
 - 📋 **[AgentOS](https://github.com/sirakinb/agent-os)** — Command center for content—timestamps, titles, keywords, descriptions, transcripts, and social media planning for YouTube
 - 💼 **[VibeCoding.Careers](https://github.com/sirakinb/vibe-code-jobs)** — #1 job directory for AI-native positions and vibe coders—the future of work
+- ✍️ **[CloseKit](https://github.com/sirakinb/close-kit)** — Proposal organizer with e-signing and Stripe invoicing—upload PDFs, get client signatures, draft and send invoices to prospects
 
 ---
 
