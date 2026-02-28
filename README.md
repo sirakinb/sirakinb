@@ -1,8 +1,8 @@
 # Hi, I'm Akinyemi 👋
 
-📍 **Philadelphia ↔ Miami** | Full-Time Automation & App Developer | Vibe Coder | Founder @ [Pentridge Media](https://pentridgemedia.com)
+📍 **Philadelphia ↔ Miami** | Automation & App Developer | Vibe Coder | Founder @ [Pentridge Media](https://pentridgemedia.com)
 
-I've been vibe coding since long before it had a name. I build operations systems for service businesses—property management, legal, financial services—and run an AI innovation studio that ships systems, software, and community for modern businesses. When I'm not building B2C and B2B apps, I'm on [YouTube](https://youtube.com/@sirakinb) talking about AI, automation, and the future of work.
+I build operations systems for service businesses—property management, legal, financial services—and run an AI innovation studio that deploys systems, software, and community for modern businesses. When I'm not building B2C and B2B apps, I'm on [YouTube](https://youtube.com/@sirakinb) talking about AI, automation, and the future of work.
 
 ---
 
@@ -22,7 +22,6 @@ I've been vibe coding since long before it had a name. I build operations system
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge)
 ![Make.com](https://img.shields.io/badge/Make.com-6D00FF?style=for-the-badge&logo=make&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Insforge](https://img.shields.io/badge/Insforge-000000?style=for-the-badge)
 ![Insforge](https://img.shields.io/badge/Insforge-000000?style=for-the-badge)
 
 ---
