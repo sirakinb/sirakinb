@@ -28,7 +28,7 @@ I build operations systems for service businesses—property management, legal, 
 
 ## 🌟 Featured
 
-**🎙️ [Voiyce](https://github.com/sirakinb/voiyce-mac-app)** — Voice agent for knowledge work. Use voice instead of typing across your applications 
+**🎙️ [Voiyce](https://github.com/sirakinb/voiyce-mac-app)** — Voice agent for knowledge work. Use voice instead of text to dictate and take action across your applications 
 
 ---
 
