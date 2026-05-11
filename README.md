@@ -35,7 +35,7 @@ I build operations systems for service businesses—property management, legal, 
 ## Current Projects
 
 - 🎯 **[Aligno](https://github.com/sirakinb/aligno-project-management)** — AI-native project management platform that combines Kanban boards, smart task prioritization, time tracking, a collaborative whiteboard, and content planning into a single multi-client workspace
-- 🎙️ **[Voiyce](https://github.com/sirakinb/voiyce-mac-app)** — First voice agent for knowledge work—voice-to-text, command your computer, take action through AI
+- 🎙️ **[Voiyce](https://github.com/sirakinb/Voiyce-Agent)** — First voice agent for knowledge work—voice-to-text, command your computer, take action through AI
 - 🧘 **[Still Meditation](https://github.com/sirakinb/STILL-app)** — iOS app for personalized meditation music and building meditation habits
 - 🃏 **[DropCard](https://github.com/sirakinb/DropCard-4)** — Business card app with NFC, contact exchange, and agent-enabled deep research & lead capture
 - 🌫️ **[Blur App](https://github.com/sirakinb/blur-app)** — Chrome extension to blur sensitive info in videos and Zoom calls
