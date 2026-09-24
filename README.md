@@ -26,12 +26,6 @@ I build operations systems for service businesses—property management, legal, 
 
 ---
 
-## 🌟 Featured
-
-**🎙️ [Voiyce](https://github.com/sirakinb/Voiyce-Agent  )** — The Voice agent for knowledge work. Use voice instead of text to dictate and take action across your applications.
-
----
-
 ## Projects
 
 - 🎯 **[Aligno](https://github.com/sirakinb/aligno-project-management)** — AI-native project management platform that combines Kanban boards, smart task prioritization, time tracking, a collaborative whiteboard, and content planning into a single multi-client workspace
