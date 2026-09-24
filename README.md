@@ -26,7 +26,7 @@ I build operations systems for service businesses—property management, legal, 
 
 ---
 
-## Projects
+## Current Projects
 
 - 🏰 **[Manor](https://github.com/sirakinb/manor)** — Your team of always-on AI agents for operational knowledge work
 - 🧘 **[Still Meditation](https://github.com/sirakinb/STILL-app)** — iOS app for personalized meditation music and building meditation habits
@@ -35,6 +35,30 @@ I build operations systems for service businesses—property management, legal, 
 - 🃏 **[DropCard](https://github.com/sirakinb/DropCard-4)** — Business card app with NFC, contact exchange, and agent-enabled research and lead capture
 
 ---
+
+## Archive
+
+- 🎙️ **[Voiyce](https://github.com/sirakinb/Voiyce-Agent)** — First voice agent for knowledge work—voice-to-text, command your computer, take action through AI
+- 🌫️ **[Blur App](https://github.com/sirakinb/blur-app)** — Chrome extension to blur sensitive info in videos and Zoom calls
+- 📋 **[AgentOS](https://github.com/sirakinb/agent-os)** — Command center for content—timestamps, titles, keywords, descriptions, transcripts, and social media management
+- 💼 **[VibeCoding.Careers](https://github.com/sirakinb/vibe-code-jobs)** — #1 job directory for AI-native positions and vibe coders—the future of work
+- ✍️ **[CloseKit](https://github.com/sirakinb/close-kit)** — Proposal organizer with e-signing and Stripe invoicing—upload PDFs, get client signatures, draft and send invoices to prospects
+- 🍽️ **[Calorie Canvas](https://github.com/sirakinb/calorie_canvas_mobile)** — Calorie counting app with Spoonacular API, AI food analysis, and image recognition—React Native
+- 🍖 **[Cookout Dash](https://github.com/sirakinb/cookout-dash)** — Urban Angry Birds—dodge your angry uncle at the cookout while collecting food
+- 📸 **[Headshot App](https://github.com/sirakinb/ai-headshot-generator)** — Upload photos and generate hyper-realistic AI headshots with Gemini API
+- 📈 **[Trading Co-Pilot](https://github.com/sirakinb/trading-aether)** — AI trading journal and coach with RAG—store trades, get pattern insights, refine your strategy
+- 📊 **[YouTube SEO Optimizer](https://github.com/sirakinb/youtube-seo-optimizer)** — Keyword research and SEO tools to rank better on YouTube
+- 🤝 **[Creator Pic](https://github.com/sirakinb/creator-pic)** — Social trend app—upload your pic + an influencer's, get styled photos together
+- ₿ **[Bitcoin Education App](https://github.com/sirakinb/bitcoin-education)** — Zero-to-proficient Bitcoin crash course—ready for dinner party conversations
+- 📄 **[Invoice.ly](https://github.com/sirakinb/invoice.ly)** — AI-powered invoice generation and management—draft and send without signing into Stripe
+- 🎙️ **[AI Podcast Generator](https://github.com/sirakinb/ai-podcaster-generator)** — Generate AI podcasts from articles—upload intro/outro, get 2–5 person podcast-style output
+- 🎮 **[Vibe Code Pioneers Game](https://github.com/sirakinb/VIBE-CODE-PIONEERS-GAME)** — Guitar Hero–style typing game—dodge obstacles, grab power-ups, vibe coding themed
+- ✅ **[Validated](https://github.com/sirakinb/validated)** — Marketplace for expert validation—get feedback from industry experts before you ship
+- 📖 **[API Decoder](https://github.com/sirakinb/api_doc_decoder)** — Paste API docs and get back readable, structured documentation
+- 🚀 **[Space Dodger](https://github.com/sirakinb/Space-Dodger)** — Space game—dodge objects and blast them with lasers
+- ⚡ **[Make.com Workflows](https://github.com/sirakinb/make.com-workflows-)** — 25+ Make.com workflows for lead gen, marketing, and internal ops
+- 📈 **[Deep Trends](https://github.com/sirakinb/deeptrends)** — Web app for deep research—Perplexity API + HeyGen avatar content from a single query
+- 🎬 **[Content Catalyst](https://github.com/sirakinb/content-catalyst-machine)** — Turn Zoom/Teams/Meet calls into content—summaries, LinkedIn posts, Instagram carousels, videos
 
 ## Connect
 
