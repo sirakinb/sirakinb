@@ -32,7 +32,7 @@ I build operations systems for service businesses—property management, legal, 
 
 ---
 
-## Current Projects
+## Projects
 
 - 🎯 **[Aligno](https://github.com/sirakinb/aligno-project-management)** — AI-native project management platform that combines Kanban boards, smart task prioritization, time tracking, a collaborative whiteboard, and content planning into a single multi-client workspace
 - 🎙️ **[Voiyce](https://github.com/sirakinb/Voiyce-Agent)** — First voice agent for knowledge work—voice-to-text, command your computer, take action through AI
@@ -43,9 +43,6 @@ I build operations systems for service businesses—property management, legal, 
 - 💼 **[VibeCoding.Careers](https://github.com/sirakinb/vibe-code-jobs)** — #1 job directory for AI-native positions and vibe coders—the future of work
 - ✍️ **[CloseKit](https://github.com/sirakinb/close-kit)** — Proposal organizer with e-signing and Stripe invoicing—upload PDFs, get client signatures, draft and send invoices to prospects
 
----
-
-## Archive
 
 - 🍽️ **[Calorie Canvas](https://github.com/sirakinb/calorie_canvas_mobile)** — Calorie counting app with Spoonacular API, AI food analysis, and image recognition—React Native
 - 🍖 **[Cookout Dash](https://github.com/sirakinb/cookout-dash)** — Urban Angry Birds—dodge your angry uncle at the cookout while collecting food
